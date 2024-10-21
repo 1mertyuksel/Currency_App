@@ -1,5 +1,5 @@
 # Currency Exchange Application
-![Main Image](Currency_App/main.png)
+![Main Image](Currency_App/Main.png)
 
 This project is a web application that allows users to convert between different currencies. It uses the [FreeCurrencyAPI](https://freecurrencyapi.com/) to fetch real-time exchange rates.
 
@@ -13,11 +13,11 @@ This project is a web application that allows users to convert between different
 1. **Setup:**
    - Clone the repository:
      ```bash
-     git clone https://github.com/username/currency-exchange-app.git
+     git clone https://github.com/1mertyuksel/Currency_App
      ```
    - Navigate to the project directory:
      ```bash
-     cd currency-exchange-app
+     cd Currency_App
      ```
    - Install the required dependencies:
      ```bash
@@ -29,18 +29,10 @@ This project is a web application that allows users to convert between different
      ```bash
      npm start
      ```
-   - Open your browser and go to `http://localhost:3000`.
-
+     
 ## Technologies
 
 - React
 - Axios
 - CSS
 
-## Contributors
-
-- [Your Name](https://github.com/username)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
