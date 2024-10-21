@@ -1,5 +1,5 @@
 # Currency Exchange Application
-![Main Image](main.png)
+![Main Image](Currency_App/main.png)
 
 This project is a web application that allows users to convert between different currencies. It uses the [FreeCurrencyAPI](https://freecurrencyapi.com/) to fetch real-time exchange rates.
 
